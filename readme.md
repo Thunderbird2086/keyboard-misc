@@ -67,8 +67,8 @@ Inspired by [tenting puck](https://splitkb.com/products/tenting-puck) from [spli
 
 ## Visuals
 ### Video
-   ![MagSafe](imgs/MagSafe.mov) 
-   ![CoinMagnet](imgs/CoinMagnet.mov) 
+   [![MagSafe](imgs/magsafe-magnet.jpg)](imgs/MagSafe.mov) 
+   [![CoinMagnet](imgs/coin-magnet.jpg)](imgs/CoinMagnet.mov) 
 ### Tenting Puck Mount
    ![Tenting Puck Mount](imgs/tenting-puck-mount.png)
 ### Tenting Puck Top
